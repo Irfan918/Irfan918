@@ -25,10 +25,6 @@
 [![Linkedin: Irfan918](https://img.shields.io/badge/-Irfan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-irfan-93a38212b/)](https://www.linkedin.com/in/
 
 
-)
-//<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=monesh-venkul-vommi-8a80b6174" //target="_blank">Follow on LinkedIn</a>
-[![GitHub Md Irfan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/irfan918)
-//[![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://irfan918.github.io/)
 
 
 **Languages and Tools:**  
