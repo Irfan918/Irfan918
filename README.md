@@ -1,4 +1,4 @@
-## Hola, I'm [Mohammad Irfan!] (https://github.com/Irfan918) 👋
+## Hola, I'm Mohammad Irfan! (https://github.com/Irfan918) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="irfan" /> </p>
 
@@ -26,9 +26,9 @@
 
 
 )
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=monesh-venkul-vommi-8a80b6174" target="_blank">Follow on LinkedIn</a>
+//<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=monesh-venkul-vommi-8a80b6174" //target="_blank">Follow on LinkedIn</a>
 [![GitHub Md Irfan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/irfan918)
-[![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://irfan918.github.io/)
+//[![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://irfan918.github.io/)
 
 
 **Languages and Tools:**  
