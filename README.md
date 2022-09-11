@@ -22,7 +22,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: Irfan918](https://img.shields.io/badge/-Irfan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-irfan-93a38212b/)](https://www.linkedin.com/in/
+[![Linkedin: Md Irfan](https://img.shields.io/badge/-Irfan-blue?style=flat-square&logo=Linkedin&logoColor=white&link= "https://www.linkedin.com/in/mohammad-irfan-93a38212b/")](https://www.linkedin.com/in/
 
 
 
