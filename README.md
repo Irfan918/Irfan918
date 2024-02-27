@@ -14,8 +14,8 @@
 
 
 
-- 🔭 I’m Fresher And Looking for Job.
-- 🌱 I’m currently learning more about Full Stack Development & BlockChain Technlogy.
+- 🔭 I’m Full stack Developer in Mern.
+- 🌱 I’m currently working in Almabetter as Mern Full Stack Development.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @irfan918](https://www.linkedin.com/in/) , 
